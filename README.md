@@ -1,20 +1,7 @@
+    pragma solidity ^0.8.0;
 
-
-
-
-
-
-
-
-
-
-
-
-
-pragma solidity ^0.8.0;
-
-// Build the Contract
-contract Lottery {
+    // Build the Contract
+    contract Lottery {
     address public address1;
     address public address2;
     address public address3;
